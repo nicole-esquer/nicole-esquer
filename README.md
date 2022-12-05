@@ -7,7 +7,7 @@ I am a back-end developer, experienced with Ruby on Rails and PostgreSQL.
 
 Before I was a developer, I was a technical support specialist that assisted educators on how to use online assessment tools to enhance their student’s abilities. I worked closely with the developer’s support team and assisted with finding bugs and creating work-arounds for educators on a time-crunch.
 
-My goals as a developer are to create applications that are fun and easy to use, and help inspire the next generation of developers. 
+My goals as a developer are to create applications that are fun, easy to use, and help inspire the next generation of developers. 
 
 <ul>
 <li>I’m currently working on <a href="https://github.com/Got-Baggage/be_gotbaggage">Got Baggage?</a></li>
