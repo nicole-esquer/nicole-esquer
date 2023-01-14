@@ -10,8 +10,8 @@ Before I was a developer, I was a technical support specialist that assisted edu
 My goals as a developer are to create applications that are fun, easy to use, and help inspire the next generation of developers. 
 
 <ul>
-<li>I’m currently working on <a href="https://github.com/Got-Baggage/be_gotbaggage">Got Baggage?</a></li>
-<li>I’m currently learning GraphQL and JavaScript</li>
+<li>I’m currently working on my portfolio!</li>
+<li>I’m currently learning JavaScript</li>
 </ul>
 
 ### Languages and Tools  
