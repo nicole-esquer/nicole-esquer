@@ -10,7 +10,7 @@ Before I was a developer, I was a technical support specialist that assisted edu
 My goals as a developer are to create applications that are fun, easy to use, and help inspire the next generation of developers. 
 
 <ul>
-<li>I’m currently working on my portfolio and going through the #100devs material!</li>
+  <li>I’m currently working on <a href="https://github.com/nicole-esquer/flashcards">Flashcards</a> as I go through the #100devs and Turing FE material!</li>
 <li>I’m currently learning JavaScript</li>
 </ul>
 
