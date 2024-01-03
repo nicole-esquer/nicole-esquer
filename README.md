@@ -9,11 +9,6 @@ Before I was a developer, I was a technical support specialist that assisted edu
 
 My goals as a developer are to create applications that are fun, easy to use, and help inspire the next generation of developers. 
 
-<ul>
-  <li>I’m currently working on <a href="https://github.com/nicole-esquer/flashcards">Flashcards</a> as I go through the #100devs and Turing FE material!</li>
-<li>I’m currently learning JavaScript</li>
-</ul>
-
 ### Languages and Tools  
 <div align="left">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
